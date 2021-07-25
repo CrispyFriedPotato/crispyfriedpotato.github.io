@@ -126,7 +126,7 @@ author:
 # Site Footer
 footer:
   links:
-  - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jiholeedotsookmyung.ac.kr"
     - label: "Website"
